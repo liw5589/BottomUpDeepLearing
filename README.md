@@ -1,6 +1,6 @@
-# BottomUpDeepLearing
+## BottomUpDeepLearing
 
-## Activation Function
+### Activation Function
 
 StepFunction            |  Sigmoid
 :-------------------------:|:-------------------------:
