@@ -7,13 +7,9 @@ StepFunctionPlot            |  SigmoidPlot
 <img src="Img/SigmoidPlot.png" width = "500px"/>  |  <img src="Img/Both.png" width = "500px"/>
 
 
-Both        
+Both            |  ReLU
 :-------------------------:
-<img src="Img/Both.png"  width = "500px"/>  |
-
-ReLU       
-:-------------------------:
-<img src="Img/ReLU_Plot.png" width = "500px"/>  |
+<img src="Img/Both.png"  width = "500px"/>  | <img src="Img/ReLU_Plot.png" width = "500px"/>
 
 
 #### StepFunctionPlot
