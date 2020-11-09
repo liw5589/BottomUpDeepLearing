@@ -2,7 +2,7 @@
 
 ## Activation Function
 
-StepFunctionPlot            |  SigmoidPlot
+StepFunction            |  Sigmoid
 :-------------------------:|:-------------------------:
 <img src="Img/SigmoidPlot.png" width = "500px"/>  |  <img src="Img/Both.png" width = "500px"/>
 
