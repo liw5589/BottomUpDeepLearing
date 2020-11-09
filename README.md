@@ -14,7 +14,7 @@ def step_function(x):
 def sigmoid(x):
     return 1 / (1 + np.exp(-x))
 ```
-<img src="Img/SigmoidPlot.png" width = "200px"/>
+
 
 #### Both
 
@@ -26,3 +26,8 @@ def relu(x):
     return np.maximum(0,x)
 ```
 <img src="Img/ReLU_Plot.png">
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="Img/SigmoidPlot.png" width = "500px"/>  |  <img src="Img/Both.png" width = "500px"/>
