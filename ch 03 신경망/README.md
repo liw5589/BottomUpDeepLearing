@@ -2,6 +2,15 @@
 
 ### Activation Function
 
+StepFunction            |  Sigmoid
+:-------------------------:|:-------------------------:
+<img src="../Img/SigmoidPlot.png" width = "500px"/>  |  <img src="../Img/Both.png" width = "500px"/>
+
+
+Both            |  ReLU
+:-------------------------:|:-------------------------:
+<img src="../Img/Both.png"  width = "500px"/>  | <img src="../Img/ReLU_Plot.png" width = "500px"/>
+
 #### StepFunctionPlot
 ```python
 def step_function(x):
@@ -22,13 +31,6 @@ def relu(x):
 ```
 
 
-StepFunction            |  Sigmoid
-:-------------------------:|:-------------------------:
-<img src="../Img/SigmoidPlot.png" width = "500px"/>  |  <img src="../Img/Both.png" width = "500px"/>
 
-
-Both            |  ReLU
-:-------------------------:|:-------------------------:
-<img src="../Img/Both.png"  width = "500px"/>  | <img src="../Img/ReLU_Plot.png" width = "500px"/>
 
 
